@@ -42,8 +42,8 @@ This is the lobby system used in the multiplayer game project *Slay the Party*. 
 
 ## **Preview**
 
-- 📹 **[Watch a quick video overview](#)**  
-- 📂 **[Follow the full project here](#)**  
+- 📹 **[Watch a quick video overview](https://www.youtube.com/watch?v=Aw7e6vfr9uM)**  
+- 📂 **[Follow the full project here](https://www.youtube.com/@ozgrsrgz)**  
 
 ---
 
